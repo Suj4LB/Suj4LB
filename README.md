@@ -1,4 +1,4 @@
-# Hello, Sujal here.
+# Hello World.
 An aspiring competitive programmer looking for opportunities to learn Web Development and DevOps.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
