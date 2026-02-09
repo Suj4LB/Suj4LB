@@ -1,6 +1,5 @@
 # Hello World 
 An aspiring competitive programmer looking for opportunities to learn Web Development and DevOps.
-
 ---
 
 <p align="center">
